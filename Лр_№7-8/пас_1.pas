@@ -5,6 +5,6 @@ begin
   readln(a);
   for i:=3 to Length(a) do
   begin
-    writeln(a[i]);
+    if i mod 3=0 then writeln(a[i]);
   end;
 end.
