@@ -1,0 +1,23 @@
+﻿uses GraphABC;
+begin
+  circle(300,200,200);
+  circle(300,200,190);
+  circle(300,200,180);
+  circle(300,200,170);
+  circle(300,200,160);
+  circle(300,200,150);
+  circle(300,200,140);
+  circle(300,200,130);
+  circle(300,200,120);
+  circle(300,200,110);
+  circle(300,200,100);
+  circle(300,200,90);
+  circle(300,200,80);
+  circle(300,200,70);
+  circle(300,200,60);
+  circle(300,200,50);
+  circle(300,200,40);
+  circle(300,200,30);
+  circle(300,200,20);
+  circle(300,200,10);
+end.

@@ -1,0 +1,19 @@
+﻿uses GraphABC;
+begin
+  setbrushcolor(clnavy);
+  circle(50,50,10);
+  setbrushcolor(clpurple);
+  circle(100,100,20);
+  setbrushcolor(clskyblue);
+  circle(150,150,30);
+  setbrushcolor(clred);
+  circle(200,200,40);
+  setbrushcolor(clpink);
+  circle(250,250,50);
+  setbrushcolor(clnavy);
+  circle(300,300,60);
+  setbrushcolor(clfuchsia);
+  circle(350,350,70);
+  setbrushcolor(clgreen);
+  circle(400,400,80);
+end.
